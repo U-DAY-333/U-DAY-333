@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SAI UDAY KIRAN
-- 👀 I’m interested in backend development and competitive programming
+- 👀 I’m interested in web development and competitive programming
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate with programmers with similar interests
 - 📫 How to reach me LinkedIN - https://www.linkedin.com/in/shinagam-sai-uday-kiran/
